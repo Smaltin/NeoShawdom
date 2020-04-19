@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " 1 ",
+        "2  ",
+        "   "
+    ],
+    "key": {
+        "1": {
+            "item": "minecraft:crafting_table"
+        },
+        "2": {
+            "item": "mekanism:hdpe_stick"
+        }
+    },
+    "result": {
+        "item": "extendedcrafting:handheld_table"
+    }
+}

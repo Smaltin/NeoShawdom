@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:ender_pearl"
+        },
+        {
+            "item": "mekanism:ingot_refined_obsidian"
+        }
+    ],
+    "result": {
+        "item": "extendedcrafting:ender_ingot"
+    }
+}

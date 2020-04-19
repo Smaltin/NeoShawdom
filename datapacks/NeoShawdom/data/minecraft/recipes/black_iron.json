@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "mekanism:ingot_steel"
+        },
+        {
+            "item": "minecraft:obsidian"
+        }
+    ],
+    "result": {
+        "item": "extendedcrafting:black_iron_ingot"
+    }
+}

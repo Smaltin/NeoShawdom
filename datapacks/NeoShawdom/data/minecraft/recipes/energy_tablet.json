@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "232",
+        "131",
+        "232"
+    ],
+    "key": {
+        "1": {
+            "item": "mekanism:alloy_infused"
+        },
+        "2": {
+            "item": "extendedcrafting:redstone_ingot"
+        },
+        "3": {
+            "item": "minecraft:gold_ingot"
+        }
+    },
+    "result": {
+        "item": "mekanism:energy_tablet"
+    }
+}
